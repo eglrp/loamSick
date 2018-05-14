@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "slist": "cpp",
+        "system_error": "cpp",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp"
+    }
+}
